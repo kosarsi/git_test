@@ -1,2 +1,3 @@
 Wow some very cool text!
 Some more very cool text!
+This is a text file.
